@@ -46,7 +46,7 @@ Introduction
     
 ![](https://github.com/Fani1996/FoodSquare/raw/master/FoodSqaure/gif/humbergerButton.gif)
     
-    5. scrollView
+    5. Horizontal Scroll View & Animate Table View Cell
     
     horizontal scrollView embedded inside vertical scrollView, good for display loads of photos.
     subtle animation while scrolling down, making contents look better.
