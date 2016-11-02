@@ -20,7 +20,7 @@ Introduction
     1. Introduction Page
     When lauched the first time, the introduction pages will show up. 
     Once lauched, the intro pages will never show again.
-    
+    ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
     ![](https://github.com/Fani1996/FoodSquare/raw/master/FoodSqaure/gif/introPage.gif)
     
     
