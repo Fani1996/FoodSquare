@@ -42,4 +42,8 @@ Introduction
     
 ![](https://github.com/Fani1996/FoodSquare/raw/master/FoodSqaure/gif/humbergerButton.gif)
     
-    5. 
+    5. scrollView
+    horizontal scrollView embedded inside vertical scrollView, good for display loads of photos.
+    subtle animation while scrolling down, making contents look better.
+
+![](https://github.com/Fani1996/FoodSquare/raw/master/FoodSqaure/gif/scrollView.gif)
